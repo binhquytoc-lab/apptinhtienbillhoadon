@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("logo.jpg")
+st.image("logo1.jpg")
 import pandas as pd
 from datetime import datetime
 st.set_page_config(page_title="Order Nhà Hàng", layout="wide")
