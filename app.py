@@ -15,7 +15,7 @@ menu = {
         "Mì Ý Bò Bằm": 95000,"GÀ CHIÊN MẮM TỎI":29000,
         "Burger Gà": 35000,
         "Bít tết Bò Mỹ": 250000,
-        "LẨU CÁ ĐUỐI VŨNG TÀU": 999.000,
+        "LẨU CÁ ĐUỐI VŨNG TÀU": 999000,
         "Sườn nướng BBQ": 150000,
         "Cánh gà chiên mắm": 75000,
         "Lẩu cá diêu hồng": 200000,
